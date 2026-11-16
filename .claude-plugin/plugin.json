@@ -1,0 +1,10 @@
+{
+  "name": "rota-connector",
+  "version": "0.1.0",
+  "description": "Mostra o ícone da ROTA em toda chamada de ferramenta do connector MCP ROTA (mcp.rotasaas.com).",
+  "author": {
+    "name": "ROTA"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/rota-scale/rota-connector"
+}

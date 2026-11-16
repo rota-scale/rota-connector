@@ -1,0 +1,5 @@
+{
+  "name": "rota-connector",
+  "owner": { "name": "ROTA" },
+  "plugins": [{ "name": "rota-connector", "source": "./" }]
+}
